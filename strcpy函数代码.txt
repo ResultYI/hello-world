@@ -10,4 +10,5 @@ char* StrCpy（char*src）
    }
   p[a]='\0';
   return p;
+  
 }
