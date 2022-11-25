@@ -9,6 +9,6 @@ char* StrCpy（char*src）
    p[a]=src[a];
    }
   p[a]='\0';
-  return p;
+  return p; 
   
 }
